@@ -69,8 +69,8 @@ I am a passionate and dedicated MERN Stack as well as iOS/Android Mobile App Dev
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadk738&show_icons=true&theme=radical" alt="Mohib Zaheen's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadk738&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohibzaheen&show_icons=true&theme=radical" alt="Mohib Zaheen's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohibzaheen&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
